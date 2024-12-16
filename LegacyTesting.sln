@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SproutMethod", "SproutMetho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SproutMethod.Tests", "SproutMethod.Tests\SproutMethod.Tests.csproj", "{1B8BE957-E221-4022-BAF3-9A03BA4CF12B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SproutClass", "SproutClass\SproutClass.csproj", "{D7D61FBA-67D2-4B81-AF90-97155CF1A067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SproutClass.Tests", "SproutClass.Tests\SproutClass.Tests.csproj", "{90F2CAAE-9230-4B7B-9BA7-3FBA2A356710}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,10 @@ Global
 		{1B8BE957-E221-4022-BAF3-9A03BA4CF12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B8BE957-E221-4022-BAF3-9A03BA4CF12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B8BE957-E221-4022-BAF3-9A03BA4CF12B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90F2CAAE-9230-4B7B-9BA7-3FBA2A356710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F2CAAE-9230-4B7B-9BA7-3FBA2A356710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F2CAAE-9230-4B7B-9BA7-3FBA2A356710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F2CAAE-9230-4B7B-9BA7-3FBA2A356710}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
